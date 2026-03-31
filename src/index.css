@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&family=DM+Mono:wght@300;400&family=Orbitron:wght@400;500;600;700&display=swap');
+
+:root {
+  --bg: #000C1E;
+  --surface: #07182C;
+  --teal: #0DEEF3;
+  --text-primary: rgba(255,255,255,0.88);
+  --text-secondary: rgba(255,255,255,0.55);
+  --text-tertiary: rgba(255,255,255,0.28);
+  --border: rgba(255,255,255,0.06);
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: var(--bg); overflow: hidden; font-family: 'DM Sans', sans-serif; height: 100vh; width: 100vw; }
+canvas { display: block; }
