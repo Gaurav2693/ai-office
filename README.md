@@ -86,6 +86,14 @@ This project is a visualization of what happens inside **[RONIN](https://roninos
 
 ---
 
+## 🌐 Live Preview
+
+**→ [skill-deploy-qmm7droauc.vercel.app](http://skill-deploy-qmm7droauc.vercel.app/)**
+
+Drag to orbit · Scroll to zoom · Slide the time bar · Hit "LIGHTS OFF" for cyberpunk mode · Click `i` for info
+
+---
+
 ## 🚀 Quick Start
 
 ```bash
